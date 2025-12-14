@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Algo>
-    <description texte="Debut&#xa;   Ecrire &quot;Bonjour le monde&quot;&#xa;   Ecrire&quot;salut&quot;&#xa;Fin&#xa;" courant="DEBUT_ALGORITHME"/>
+    <description texte="Debut&#xa;   Ecrire &quot;Bonjour le monde&quot;&#xa;   Ecrire&quot;aurevoir&quot;&#xa;Fin&#xa;" courant="DEBUT_ALGORITHME"/>
     <extension extnom="inactif"/>
     <fonction fctetat="inactif" fctcode=""/>
     <F2 F2etat="inactif" F2lignes="" F2defaut="" F2para=""/>
